@@ -8,6 +8,10 @@ Freelance since 2025: websites, admin panels, payment integrations (YooKassa, St
 
 Looking for a full-time remote fullstack role.
 
+### Projects
+- [Cashflow](https://github.com/benkliii96-droid/cashflow) — finance tracker (Django + React)
+- [OrderDesk](https://github.com/benkliii96-droid/orderdesk) — order admin (React + PHP API)
+
 ### Contacts
 - Telegram: [@AsakiFuegichi](https://t.me/AsakiFuegichi)
 - Email: benkliii96@gmail.com
