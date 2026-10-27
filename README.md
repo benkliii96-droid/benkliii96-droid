@@ -11,6 +11,8 @@ Looking for a full-time remote fullstack role.
 ### Projects
 - [Cashflow](https://github.com/benkliii96-droid/cashflow) — finance tracker (Django + React)
 - [OrderDesk](https://github.com/benkliii96-droid/orderdesk) — order admin (React + PHP API)
+- [TaskPulse](https://github.com/benkliii96-droid/taskpulse) — kanban board (Django + React)
+- [Linkly](https://github.com/benkliii96-droid/linkly) — URL shortener (React + PHP)
 
 ### Contacts
 - Telegram: [@AsakiFuegichi](https://t.me/AsakiFuegichi)
