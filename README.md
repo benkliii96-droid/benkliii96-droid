@@ -78,7 +78,7 @@
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=benkliii96-droid&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benkliii96-droid&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=benkliii96-droid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benkliii96-droid&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="languages" />
 
 </div>
