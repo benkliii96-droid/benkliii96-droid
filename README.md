@@ -67,6 +67,7 @@
 
 | Project | Stack | Description |
 |---------|--------|-------------|
+| [HabitLedger](https://github.com/benkliii96-droid/habit-ledger) | Node · React · PostgreSQL | дневник привычек: стрики, долг за пропуски, Google + Яндекс ID |
 | [Cashflow](https://github.com/benkliii96-droid/cashflow) | Django · React | учёт доходов/расходов |
 | [OrderDesk](https://github.com/benkliii96-droid/orderdesk) | PHP · React | админка заказов |
 | [TaskPulse](https://github.com/benkliii96-droid/taskpulse) | Django · React | канбан задач |
